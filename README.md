@@ -3,3 +3,6 @@
 </a>
 
 **Hi im cylo!**
+
+- i write code sometimes
+  
